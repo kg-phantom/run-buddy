@@ -10,3 +10,5 @@
 https://lernantino.github.io/run-buddy/
 
 ## Made with ❤️ by Kyrsten Urbayan
+
+### ©️2019 Run Buddy, Inc
